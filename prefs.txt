@@ -20,7 +20,7 @@ yamanashi
 nagano
 gifu
 shizuoka
-aichi
+aichi,nagoya
 mie
 shiga
 kyoto
